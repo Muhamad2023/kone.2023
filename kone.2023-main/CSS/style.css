@@ -1,0 +1,140 @@
+body{
+    font-family: 'cairo',sans-serif;
+  
+}
+.header{
+    background-color: cadetblue;
+    padding-top: 10px;
+}
+.header a{
+    float: left;
+}
+
+
+.fectures{
+    margin-top: 50px;
+}
+
+.fectures i{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(52, 165, 131);
+    line-height: 100px;
+    color: white;
+    font-size: 30px;
+}
+.fectures h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(51, 32, 32);
+    color: white;
+}
+.our-team{
+    background-color: #eee;
+    padding: 20px;
+    
+}
+.statistic{
+    margin-top: 100px;
+    width: 100%;
+    height: 800px;
+    background-image: url('../images/cars/90909\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.statistic .dverlay{
+    padding-top: 130px;
+    width: 100%;
+    height: 100%;
+
+}
+.statistic .dverlay h3{
+    color: white;
+
+}
+.statistic .dverlay p{
+    color: white;
+    font-size: 75px;
+
+}
+
+.our-customers{
+    margin-top: 100px;
+    background-color: #eee;
+    line-height: 250px;
+    border-bottom: 3px solid cadetblue;
+
+}
+.recent-news .btn-danger{
+    background-color: cadetblue;
+    border-color: cadetblue;
+}
+.recent-news .btn-danger :hover{
+    background-color: red;
+}
+
+
+
+footer   {                                                        
+    background-color: rgb(95, 158, 160) ;
+    padding: 30px;
+    margin-top: 150px;
+
+}
+footer p{
+    color: white;
+
+}
+footer h2{
+    color: white;
+
+}
+footer a{
+    color: white;
+
+}
+footer a:hover{
+    color: white;
+
+}
+footer ul li{
+    list-style: none;
+    color: white;
+
+}
+
+
+
+
+
+
+.jumbotron{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.jumbotron .bolg_info{
+    flex: 1;
+}
+.jumbotron .blog_image{
+    flex: 1;
+}
+
+
+.blog_details p{
+    line-height: 2;
+    padding: 10px;
+}
+
+
+
+
+.courses img:hover{
+
+    transform: scale(1.1);
+}
+
+
+
+
